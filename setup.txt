@@ -1,0 +1,12 @@
+[design]
+highlight_color = #ff5f1f
+loader_box_color = #070707
+main_text_color = #ededed
+main_widgets_color = #050505
+
+[links]
+discord_link = https://discord.gg/blazemodz
+website_link = https://blazemodz.sellhub.cx/
+
+[rounded_corners]
+main_widgets = 12
