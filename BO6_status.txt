@@ -1,1 +1,2 @@
 TEST LOADER V1,online,1.00.01,https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/ML_CUSTOMERS/BLAZEMODZ_BANNER_DEFAULT.gif
+Flubba External,online,1.00.01,https://cdn.discordapp.com/attachments/1236767941471506493/1353497477692657736/Flubba_External.exe?ex=67e1de41&is=67e08cc1&hm=2f99f8195d2b144ecf84ea034950a02b218a2f6cfcff686e8b68efb09db2348f&
