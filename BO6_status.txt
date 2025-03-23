@@ -1,4 +1,3 @@
-TEST LOADER V1,online,1.00.01,https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/ML_CUSTOMERS/BLAZEMODZ_BANNER_DEFAULT.gif
 Flubba External,online,1.00.01,https://cdn.discordapp.com/attachments/1236767941471506493/1353497477692657736/Flubba_External.exe?ex=67e1de41&is=67e08cc1&hm=2f99f8195d2b144ecf84ea034950a02b218a2f6cfcff686e8b68efb09db2348f&
 Zenith,online,1.00.01,https://cdn.discordapp.com/attachments/1236767941471506493/1353497823563350036/t10_zl_mnbvcxz.exe?ex=67e1de93&is=67e08d13&hm=f680abc21a40b88c82b79e544bcf9dc3f785899ad00979342b016d80a2af9daa&
 Force Save,online,1.00.01,https://cdn.discordapp.com/attachments/1236767941471506493/1353510261302235256/t10_fs_xcvbmw.exe?ex=67e1ea29&is=67e098a9&hm=049034847bfb7985c79990472c2eaaf8ce217efb2d146b6e8d92de0e742489b3&
